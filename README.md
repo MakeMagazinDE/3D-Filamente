@@ -6,6 +6,6 @@
 
 Drucken Sie das jeweilige Etikett mit Hilfe des Acrobat Readers einfach in der gewünschten Größe auf handelsübliche Klebeetiketten aus.
 
-![Picture](https://github.com/heise/3D-Filamente/master/pla.png) 
+![Picture](https://github.com/heise/3D-Filamente/blob/master/pla.png) 
 
 Den vollständigen Artikel gibt es in der **[Make-Ausgabe 2/19 ab Seite 8 zu lesen. 
