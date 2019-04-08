@@ -8,4 +8,4 @@ Drucken Sie das jeweilige Etikett mit Hilfe des Acrobat Readers einfach in der g
 
 ![Picture](https://github.com/heise/3D-Filamente/blob/master/pla.png) 
 
-Den vollständigen Artikel gibt es in der **[Make-Ausgabe 2/19 ab Seite 8 zu lesen. 
+Den vollständigen Artikel gibt es in der **Make-Ausgabe 2/19 ab Seite 8 zu lesen. 
