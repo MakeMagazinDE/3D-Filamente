@@ -5,10 +5,10 @@ Maker Media GmbH
 
 # 3D-Druckfilamente 
 
-### Immer häufiger werden Druckfilamente ohne Aufkleber auf Spule oder Verpackung geliefert. Hier erhalten Sie Etiketten für die 30 wichtigsten Filamentarten zum Selbstdruck mit allen wichtigen Angaben.
+### Immer hÃ¤ufiger werden Druckfilamente ohne Aufkleber auf Spule oder Verpackung geliefert. Hier erhalten Sie Etiketten fÃ¼r die 30 wichtigsten Filamentarten zum Selbstdruck mit allen wichtigen Angaben.
 
-Drucken Sie das jeweilige Etikett einfach in der gewünschten Größe auf handelsübliche Klebeetiketten aus.
+Drucken Sie das jeweilige Etikett einfach in der gewÃ¼nschten GrÃ¶ÃŸe auf handelsÃ¼bliche Klebeetiketten aus.
 
-![Picture](https://github.com/heise/Internetradio/blob/3D-Filamente/pla.png) 
+![Picture](https://github.com/MakeMagazinDE/3D-Filamente/blob/master/pla.png) 
 
-Den vollständigen Artikel gibt es in der Make-Ausgabe 2/19 ab Seite 8 zu lesen. 
+Den vollstÃ¤ndigen Artikel gibt es in der Make-Ausgabe 2/19 ab Seite 8 zu lesen. 
